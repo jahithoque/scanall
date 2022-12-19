@@ -3,4 +3,4 @@ Scanall is a automation tool that utilises dirsearch, hakrawler, gau, and arjun 
 
 ## Usage: ./scanall.sh list.txt
 
-Will be adding more functionalities.
+Will be adding more functionalities soon.
